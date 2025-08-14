@@ -1,0 +1,9 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore build output
+# dist/
+
+# System/IDE files
+.DS_Store
+*.log
