@@ -7,3 +7,6 @@ node_modules/
 # System/IDE files
 .DS_Store
 *.log
+
+README.md
+README-template.md
