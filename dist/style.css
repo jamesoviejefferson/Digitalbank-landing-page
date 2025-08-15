@@ -330,11 +330,6 @@
       align-self: center;
     }
   }
-  .sm\:self-end {
-    @media (width >= 40rem) {
-      align-self: flex-end;
-    }
-  }
   .md\:block {
     @media (width >= 48rem) {
       display: block;
